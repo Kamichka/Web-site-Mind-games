@@ -1,7 +1,7 @@
 # Mind Games
 
 Welcome to Mind Games! This project is a collection of chess problems, quizzes, and crosswords designed to challenge and entertain your mind.
-Developed with SocioPhobe0
+Developed with SocioPhobe0 :)
 
 ## Features
 
